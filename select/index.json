@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "My Name is Malguem",
+  "base_artist": "QWER",
+  "createdAt": "2025-12-23T03:00:08.379381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Name is Malguem",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/01_My_Name_is_Malguem_QWER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Name is Malguem (내 이름 맑음)",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/02_My_Name_is_Malguem_(내_이름_맑음)_QWER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Name is Malguem",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/03_My_Name_is_Malguem_QWER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Name is Malguem (내 이름 맑음)",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/04_My_Name_is_Malguem_(내_이름_맑음)_QWER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Name Is Malguem",
+      "artist": "Qwer",
+      "has_synced": true,
+      "path": "select/05_My_Name_Is_Malguem_Qwer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Name is Malguem",
+      "artist": "QWER",
+      "has_synced": false,
+      "path": "select/pl_01_My_Name_is_Malguem_QWER.txt"
+    }
+  ]
+}
